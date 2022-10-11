@@ -299,7 +299,7 @@ Enter the input (Number of leading zeros if you are the server or The IP Address
 
 **ScreenShot of console for input 7**
 
-![](input 7.png)
+![](input_7.png)
 
 5. The largest number of working machines you were able to run your code with.
 
